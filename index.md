@@ -1,11 +1,12 @@
 ---
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 title: Home
 ---
 
 # SYNTHESIZING MEANING
 ## a participatory workshop to explore the latent space of diffusion models
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+
 
 **ABSTRACT
 
