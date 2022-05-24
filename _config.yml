@@ -24,7 +24,7 @@ repo: "https://github.com/laurajul/pytti-workshop"
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https:///laurajul.github.io
+url: https:///laurajul.github.io/pytti-workshop/
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
 baseurl: /pytti-workshop
