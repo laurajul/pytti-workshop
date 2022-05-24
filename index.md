@@ -3,12 +3,12 @@
 title: Home
 ---
 
-{% include figure.html img="impressions_04.png" alt="intro image here" caption="Library workshop" width="75%" %}
+
 
 # SYNTHESIZING MEANING
 ## a participatory workshop to explore the latent space of diffusion models
 
-
+{% include figure.html img="impressions_04.png" alt="intro image here" caption="Library workshop" width="75%" %}
 
 **ABSTRACT**
 
