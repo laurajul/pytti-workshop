@@ -7,13 +7,11 @@ title: Home
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
+**ABSTRACT
 
-*Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+*The hands-on participatory workshop emphasizes the appropriation of AI techniques to convey a high-level understanding of applied Machine Learning, while retaining scrutiny on concurrent ethical and environmental issues. Novel ways of co-creation with machines will be explored, with a special focus on image generation techniques with natural language prompts. Learnings made during the workshop through practical experiments will serve as a starting point to reflect and discuss possible future scenarios and modalities of human machine interaction and collaboration. The workshop will put in perspective the mediating role speculative design can have in the face of disruptive technological advancements, as it allows for the exploration and simulation of future developments.*
+
 
 *See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
