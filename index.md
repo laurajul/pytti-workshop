@@ -10,6 +10,8 @@ title: Home
 
 {% include figure.html img="impressions_04.png" alt="intro image here" caption="Library workshop" width="75%" %}
 
+we are organising this workshop as part of the [Participatory Design Conference (PDC 2022)] (https://pdc2022.org/)
+
 **ABSTRACT**
 
 
