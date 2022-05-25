@@ -64,6 +64,7 @@ representing future visions of Machine collaboratio
 
 
 **SCHEDULE**
+|---|---|
 
 | 9:00 – 9:30 | Introduction instructors and participants |
 | 9:30 – 10:30 | Techniques used in “Borrowed Limbs” |
