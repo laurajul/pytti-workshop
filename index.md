@@ -6,11 +6,11 @@ title: Home
 
 
 # SYNTHESIZING MEANING
-## a participatory workshop to explore the latent space of diffusion models
+## a participatory one-day workshop
 
 {% include figure.html img="Impressions_04.png" alt="intro image here" caption="posthuman hybrid" width="100%" %}
 
-we are organising this workshop as part of the [Participatory Design Conference (PDC 2022)] (https://pdc2022.org/)
+we are organising this workshop as part of the [Participatory Design Conference 2022] (https://pdc2022.org/)
 
 **ABSTRACT**
 
