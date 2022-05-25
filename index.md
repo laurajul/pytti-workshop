@@ -67,9 +67,9 @@ representing future visions of Machine collaboratio
 Time | Programme 
 
 ---------------|-----------------------------------------------------------
- 9:00 – 9:30 | Introduction instructors and participants 
- 9:30 – 10:30 | Techniques used in “Borrowed Limbs” 
- 10:30 – 11:00 | Coffee-Break (Zoom stays open for ppl that want to talk) 
+| 9:00 – 9:30 | Introduction instructors and participants |
+| 9:30 – 10:30 | Techniques used in “Borrowed Limbs” | 
+| 10:30 – 11:00 | Coffee-Break (Zoom stays open for ppl that want to talk) |
  11:00 – 12:00 | Intro to CLIP guided diffusion 
  12:00 – 15:00 | Self-experimentation based on a speculative concept 
  15:00 – 17:00 | Comparison of results, conclusions discussion 
