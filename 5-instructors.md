@@ -12,5 +12,3 @@ graduated with a bachelor's degree in media design from DHBW Ravensburg. She cur
 ## Laura Wagner (she/her)
 studied Communication Design (B.A.) at FH Aachen. Since her master's degree in Integrated Design at KISD, she has been working at the same university as a research associate in the research project "KiTeGG - KI greifbar machen und begreifen: Technologie und Gesellschaft verbinden durch Gestaltung" (KiTeGG - Making and understanding AI: Connecting technology and society through design), which aims to sustainably anchor the teaching of AI topics and methods in the entire field of design. It deals with the didactics of AI topics and AI-supported machine-human interaction.
 
-# Lisa Marleen Mantel 
-# Laura Juliane Wagner
