@@ -1,2 +1,2 @@
-title: Start
+title: instructors
 nav: true
