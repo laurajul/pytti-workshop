@@ -9,7 +9,7 @@ title: Home
 # SYNTHESIZING MEANING
 ## a participatory one-day workshop
 
-[GOALS](#GOALS)GOALS<a name="GOALS"></a>
+[GOALS](#GOALS)
 
 
 {% include figure.html img="Impressions_04.png" alt="intro image here" caption="posthuman hybrid" width="100%" %}
