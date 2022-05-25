@@ -10,7 +10,7 @@ title: Home
 
 {% include figure.html img="Impressions_04.png" alt="intro image here" caption="posthuman hybrid" width="100%" %}
 
-we are organising this workshop as part of the [Participatory Design Conference 2022] (https://pdc2022.org/)
+we are organising this workshop as part of the [Participatory Design Conference 2022](https://pdc2022.org/)
 
 **ABSTRACT**
 
@@ -66,13 +66,14 @@ representing future visions of Machine collaboratio
 **SCHEDULE**
 |---|---|
 
-| 9:00 – 9:30 | Introduction instructors and participants |
-| 9:30 – 10:30 | Techniques used in “Borrowed Limbs” |
-| 10:30 – 11:00 | Coffee-Break (Zoom stays open for ppl that want to talk) |
-| 11:00 – 12:00 | Intro to CLIP guided diffusion |
-| 12:00 – 15:00 | Self-experimentation based on a speculative concept |
-| 15:00 – 17:00 | Comparison of results, conclusions discussion |
-| 17:00 – 17:15 | Goodbye (Zoom open until 18:00 for questions/feedback) |
+ 9:00 – 9:30 | Introduction instructors and participants 
+---|---
+ 9:30 – 10:30 | Techniques used in “Borrowed Limbs” 
+ 10:30 – 11:00 | Coffee-Break (Zoom stays open for ppl that want to talk) 
+ 11:00 – 12:00 | Intro to CLIP guided diffusion 
+ 12:00 – 15:00 | Self-experimentation based on a speculative concept 
+ 15:00 – 17:00 | Comparison of results, conclusions discussion 
+ 17:00 – 17:15 | Goodbye (Zoom open until 18:00 for questions/feedback) 
 <div class="toc" markdown="1">
 ## Contents:
 
