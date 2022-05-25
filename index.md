@@ -5,8 +5,15 @@ title: Home
 
 
 
+
 # SYNTHESIZING MEANING
 ## a participatory one-day workshop
+
+[Goals](#GOALS)
+
+Markup : [text goes here](#section_name)
+          section_title<a name="section_name"></a>
+
 
 {% include figure.html img="Impressions_04.png" alt="intro image here" caption="posthuman hybrid" width="100%" %}
 
@@ -19,6 +26,7 @@ we are organising this workshop as part of the [Participatory Design Conference 
 
 
 **GOALS**
+Markdown Cheatsheet<a name="GOALS"></a>
 
 The workshop is oriented towards collaboratively finding an approach towards dealing with applied Machine 
 Learning techniques, while developing speculative future visions on machine-human hybridization. A high-
