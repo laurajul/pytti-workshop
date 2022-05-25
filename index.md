@@ -22,8 +22,7 @@ we are organising this workshop as part of the [Participatory Design Conference 
 *The hands-on participatory workshop emphasizes the appropriation of AI techniques to convey a high-level understanding of applied Machine Learning, while retaining scrutiny on concurrent ethical and environmental issues. Novel ways of co-creation with machines will be explored, with a special focus on image generation techniques with natural language prompts. Learnings made during the workshop through practical experiments will serve as a starting point to reflect and discuss possible future scenarios and modalities of human machine interaction and collaboration. The workshop will put in perspective the mediating role speculative design can have in the face of disruptive technological advancements, as it allows for the exploration and simulation of future developments.*
 
 
-### GOALS
-Markdown Cheatsheet<a name="GOALS"></a>
+### GOALS <a name="GOALS"></a>
 
 The workshop is oriented towards collaboratively finding an approach towards dealing with applied Machine 
 Learning techniques, while developing speculative future visions on machine-human hybridization. A high-
