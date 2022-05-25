@@ -18,7 +18,35 @@ we are organising this workshop as part of the [Participatory Design Conference 
 *The hands-on participatory workshop emphasizes the appropriation of AI techniques to convey a high-level understanding of applied Machine Learning, while retaining scrutiny on concurrent ethical and environmental issues. Novel ways of co-creation with machines will be explored, with a special focus on image generation techniques with natural language prompts. Learnings made during the workshop through practical experiments will serve as a starting point to reflect and discuss possible future scenarios and modalities of human machine interaction and collaboration. The workshop will put in perspective the mediating role speculative design can have in the face of disruptive technological advancements, as it allows for the exploration and simulation of future developments.*
 
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+**GOALS**
+
+The workshop is oriented towards collaboratively finding an approach towards dealing with applied Machine 
+Learning techniques, while developing speculative future visions on machine-human hybridization. A high-
+level understanding of applied Machine Learning will be conveyed, by means of practical AI appropriation. 
+Meanwhile societal and environmental impacts, closely intertwined with the advances of AI technology will 
+be scrutinized. The basic usage of Jupyter Notebooks will be demonstrated, and collaboration facilitated 
+using the Google Colab and Drive infrastructure. The workshop will introduce and reflect on the views of 
+posthuman thinkers such as Rosi Braidotti, Donna Haraway, and Katherine Hayles. Participants are invited 
+to construct and share future visions of human-machine collaboration while appropriating AI tools that can 
+be integrated in their individual workflows. The experimental short film “Borrowed Limbs” will serve as an 
+example for both speculative storytelling and appropriation of AI tools. In this film, the AI protagonist utilizes 
+the human body as a sensing device to gain an embodied understanding of its environment. As a result of 
+consequent machine-human hybridization, the narration describes an interspecies alliance with AI as new 
+species. The work was produced with several Machine Learning techniques, generating imagery that was 
+brought into a coherent narrative. After exploring the tools used in the film, learnings made through the 
+process of appropriation will be reflected upon through group discussion. Speculative concepts will be used 
+for exploration and simulation of ethical issues connected to the emergence of new technologies. Developing 
+such concepts, the workshop aims to spark a discussion about future visions of hybridization and machine-
+human collaboration. Outcomes of the workshop will be a collection of generated images or short videos, 
+reflecting on posthuman future visions, the story of their inception, and the conclusions drawn from them.
+These will be combined into a collective work in the form of a Graphic Novel. The resulting stories will be 
+
+made accessible to the participants in the browser with either a self-hosted Jupyter book (jupyterbook.org) 
+or with other productivity and knowledge organization software based on markdown.*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+
+
+
+
 
 <div class="toc" markdown="1">
 ## Contents:
