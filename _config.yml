@@ -8,9 +8,9 @@
 
 # Site settings
 # title appears in the header
-title: synthesizing meaning with pytti
+title: synthesizing meaning with PyTTI
 # description and keywords for meta tags
-description: "a workshop of the PDC conference"
+description: "a one-day workshop of the PDC conference"
 keywords: "PyTTI, Text-to-image"
 
 # author settings for cc-by, appears in the footer
