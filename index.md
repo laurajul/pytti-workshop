@@ -16,13 +16,13 @@ title: Home
 
 we are organising this workshop as part of the [Participatory Design Conference 2022](https://pdc2022.org/)
 
-**ABSTRACT**
+## ABSTRACT
 
 
 *The hands-on participatory workshop emphasizes the appropriation of AI techniques to convey a high-level understanding of applied Machine Learning, while retaining scrutiny on concurrent ethical and environmental issues. Novel ways of co-creation with machines will be explored, with a special focus on image generation techniques with natural language prompts. Learnings made during the workshop through practical experiments will serve as a starting point to reflect and discuss possible future scenarios and modalities of human machine interaction and collaboration. The workshop will put in perspective the mediating role speculative design can have in the face of disruptive technological advancements, as it allows for the exploration and simulation of future developments.*
 
 
-**GOALS**
+### GOALS
 Markdown Cheatsheet<a name="GOALS"></a>
 
 The workshop is oriented towards collaboratively finding an approach towards dealing with applied Machine 
@@ -50,7 +50,7 @@ made accessible to the participants in the browser with either a self-hosted Jup
 or with other productivity and knowledge organization software based on markdown.*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
 
-**STRUCTURE**
+## STRUCTURE
 At first, insights will be given into the myriad of techniques that were used in producing the short film 
 “Borrowed Limbs”. The production pipeline developed while making the film and the technologies involved 
 will be briefly explained. In the following, workshop participants are introduced to a modified version of the 
@@ -68,7 +68,7 @@ representing future visions of Machine collaboratio
 
 
 
-**SCHEDULE**
+## SCHEDULE
 
 | Time | Programme |
 ---------------|-----------------------------------------------------------
@@ -82,10 +82,6 @@ representing future visions of Machine collaboratio
 <div class="toc" markdown="1">
 
 
-
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 ## Contents:
 
 {% for lesson in site.pages %}
